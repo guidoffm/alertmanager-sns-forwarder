@@ -4,7 +4,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://git.tech.rz.db.de/isr/Infrastruktur/sns-forwarder"
+        "url": "https://github.com/guidoffm/alertmanager-sns-forwarder"
     },
     "scripts": {
         "start": "node main.js"
