@@ -5,7 +5,7 @@ Forwards Prometheus alerts to AWS SNS service.
 You need to set these environment variables:
 
 - AWS_DEFAULT_REGION
-- SNS_TOPIC (Use topic arn))
+- SNS_TOPIC (Specify the arn of your topic here)
 
 Make sure to have IAM access to publish to the topic.
 
